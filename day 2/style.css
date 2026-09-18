@@ -5,9 +5,9 @@
 }
 
 body {
-    background-image: linear-gradient(#deecff, #3f78c9);
+    background-image: linear-gradient(#deecff, #0D469C);
     font-family: Arial, sans-serif;
-    min-height: 200vh;
+    min-height: 100vh;
 
 }
 
@@ -15,7 +15,7 @@ body {
   position: sticky;
   top: 0;
   width: 100%;
-    background-color: #deecff;
+    
     display: flex;
     align-items: center;
     justify-content: space-between;
